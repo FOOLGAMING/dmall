@@ -58,4 +58,4 @@ async def send(ctx, *, content: str):
             await ctx.send("DM can't send to : {} :x: ".format(member))
 
 
-bot.run("ODIxOTI1Nzg2MzMxMjUwNjg5.YFK0Cg.QhKwMaP8biv-Qk94NccXP1DgI-o")
+bot.run("ODIxOTI1Nzg2MzMxMjUwNjg5.YFK0Cg.C8rP5YFt3_skFYWTBjPhopqXtNU")
